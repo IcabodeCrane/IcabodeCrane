@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello I'm Abdenasser 👋
+<a href="https://www.linkedin.com/in/abdenasser-samdi-b55447122/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **IcabodeCrane/IcabodeCrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
