@@ -1,7 +1,7 @@
 ### Hello I'm Abdenasser 👋
 <a href="https://www.linkedin.com/in/abdenasser-samdi-b55447122/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am recently working to get my OSCP certification, my main goal is to retrain and get all the necessary knowledge (from networking to scripting and programming) to work in Cyber Security
+I am currently working to get my CPTS certification, my main goal is to retrain and get all the necessary knowledge (from networking to scripting and programming) to work in Cyber Security
 
 ## Objective
 
